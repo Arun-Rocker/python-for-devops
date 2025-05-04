@@ -114,4 +114,5 @@ source myenv/bin/activate
 Once activated, you work in an isolated workspace with its Python interpreter and library dependencies.
 
 # Deactivate the Environment
+Command to deactivate  form the env is
 deactivate
